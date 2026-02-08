@@ -1,4 +1,4 @@
-#### 🚀 TalkToGitHub — Command Driven Generative UI for GitHub
+# 🚀 TalkToGitHub — Command Driven Generative UI for GitHub
 ### Hackathon Project — Generative UI using Tambo
 ## 🌍 Problem Statement
 
