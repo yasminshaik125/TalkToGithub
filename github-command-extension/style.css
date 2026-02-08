@@ -1,0 +1,12 @@
+#ttg-command-bar {
+  position: fixed;
+  top: 10px;
+  right: 20px;
+  width: 300px;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  background: #161b22;
+  color: white;
+  z-index: 999999;
+}
